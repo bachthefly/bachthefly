@@ -109,7 +109,9 @@ I'm interested in understanding how we can design and build technology that bett
 **Denison University**, Granville, OH, USA
 
 B.A. in Computer Science, *Cum Laude*
+
 B.A. in Data Analytics, Psychology Domain, *Cum Laude*
+
 Minor in Psychology
 
 ## Connect
