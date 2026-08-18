@@ -26,7 +26,24 @@ My work spans:
 
 ## Research Interests
 
-HCI · CSCW · Human-Centered AI · Social Computing · Digital Mental Health · Technology & Human Behavior · Data Science · Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/HCI-Human--Computer%20Interaction-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSCW-Computer--Supported%20Cooperative%20Work-6C63FF?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Human--Centered%20AI-8A63D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Social%20Computing-8A63D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technology%20%26%20Human%20Behavior-8A63D2?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Digital%20Mental%20Health-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-555555?style=for-the-badge" />
+</p>
+
+I'm interested in understanding how we can design and build technology that better supports **people, communities, and collaboration**.
 
 ## Technical Background
 
@@ -79,12 +96,6 @@ HCI · CSCW · Human-Centered AI · Social Computing · Digital Mental Health ·
 B.A. in Computer Science, *Cum Laude*
 B.A. in Data Analytics, Psychology Domain, *Cum Laude*
 Minor in Psychology
-
-## Currently Exploring
-
-**HCI · CSCW · Human-Centered AI · Social Computing**
-
-I'm interested in understanding how we can design and build technology that better supports **people, communities, and collaboration**.
 
 ## Connect
 
