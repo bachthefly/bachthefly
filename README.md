@@ -1,4 +1,4 @@
-# Hi, I'm Bach Nguyen
+# Hello there! I'm Bach Nguyen!
 
 I'm a **Computer Science & Data Analytics graduate from Denison University** interested in the intersection of **technology, data, and people**.
 
