@@ -19,10 +19,25 @@ My work spans:
 
 ## Selected Projects
 
-* NSDUH Mental Health & Substance Use Treatment Access
-* Licking County Food Pantry Network
-* From RAPPOR Noise to Usable Structure
-* Force Place Analytics
+### NSDUH Mental Health & Substance Use Treatment Access
+**Research · Statistical Modeling · Health Analytics**
+
+An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2021–2023 NSDUH**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
+
+### Licking County Food Pantry Network
+**Software Engineering · Mobile Development · Community Technology**
+
+A mobile application developed with a community partner to improve access to local food pantry information. Built with **React Native, Supabase, PostgreSQL, and PostGIS**, with mapping, schedules, inventory, and real-time updates.
+
+### From RAPPOR Noise to Usable Structure
+**Privacy · Machine Learning · Algorithms**
+
+An investigation into extracting useful structure from data collected under **RAPPOR-based local differential privacy**. Explores the trade-offs between privacy protection and downstream data utility.
+
+### Force Place Analytics
+**Applied Analytics · Data Visualization · Real-World Data**
+
+An applied analytics project completed with **Force Place Analytics**, using data-driven methods to explore real-world problems and communicate actionable insights.
 
 ## Research Interests
 
@@ -99,4 +114,4 @@ Minor in Psychology
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/bach-chi-nguyen/) · [Email](nguyen_b3@denison.edu)
