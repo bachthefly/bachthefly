@@ -30,11 +30,45 @@ HCI · CSCW · Human-Centered AI · Social Computing · Digital Mental Health ·
 
 ## Technical Background
 
-**Languages:** Python · R · SQL · Java · JavaScript
+**Languages:**
 
-**Data & AI:** pandas · NumPy · scikit-learn · TensorFlow · spaCy · NLTK
+<p>
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+</p>
 
-**Development:** React Native · React · Supabase · PostgreSQL · PostGIS · Git
+**Data & AI:**
+
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge&logo=spacy" />
+  <img src="https://img.shields.io/badge/-NLTK-154F5B?style=for-the-badge" />
+</p>
+
+**Development:**
+
+<p>
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+</p>
+
+**Tools & Platforms:**
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
+</p>
 
 ## Education
 
