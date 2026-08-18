@@ -22,7 +22,7 @@ My work spans:
 ### NSDUH Mental Health & Substance Use Treatment Access
 **Research · Statistical Modeling · Health Analytics**
 
-An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2021–2023 NSDUH**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
+An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2023 National Survey on Drug Use and Health (NSDUH)**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
 
 ### Licking County Food Pantry Network
 **Software Engineering · Mobile Development · Community Technology**
