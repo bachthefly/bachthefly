@@ -24,7 +24,7 @@ My work spans:
 
 An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2023 National Survey on Drug Use and Health (NSDUH)**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
 
-### Licking County Food Pantry Network
+### Licking County Food Pantry Network Location App
 **Software Engineering · Mobile Development · Community Technology**
 
 A mobile application developed with a community partner to improve access to local food pantry information. Built with **React Native, Supabase, PostgreSQL, and PostGIS**, with mapping, schedules, inventory, and real-time updates.
