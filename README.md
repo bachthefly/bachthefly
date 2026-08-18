@@ -38,7 +38,7 @@ HCI · CSCW · Human-Centered AI · Social Computing · Digital Mental Health ·
 
 ## Education
 
-**Denison University**
+**Denison University**, Granville, OH, USA
 
 B.A. in Computer Science, *Cum Laude*
 B.A. in Data Analytics, Psychology Domain, *Cum Laude*
