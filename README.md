@@ -1,10 +1,10 @@
-# Hello there! I'm Bach Nguyen!
+# Hello there! I'm Bach Nguyen! <img src="https://emojis.slackmojis.com/emojis/images/1775450901/138290/rocky.png?1775450901" width="30">
 
 I'm a **Computer Science & Data Analytics graduate from Denison University**, and I'm interested in how technology can be designed, analyzed, and evaluated to better support people and communities.
 
 I'm currently diving deeper into **Human-Computer Interaction (HCI)** and **Computer-Supported Cooperative Work (CSCW)**, with interests in human-centered AI, social computing, and technology-mediated human behavior.
 
-## About Me
+## About Me ✨
 
 I enjoy working across different areas of computing and data, from building software and analyzing complex datasets to exploring machine learning and human-centered technology. I particularly enjoy projects that require moving between technical implementation, data-driven reasoning, and understanding the people or communities affected by a system.
 
@@ -17,7 +17,7 @@ My work spans:
 * Human-Centered Computing
 * Applied Research
 
-## Selected Projects
+## Selected Projects 🧑‍🚀
 
 ### NSDUH Mental Health & Substance Use Treatment Access
 **Research · Statistical Modeling · Health Analytics**
@@ -39,7 +39,7 @@ An investigation into extracting useful structure from data collected under **RA
 
 An applied analytics project completed with **Force Place Analytics**, using data-driven methods to explore real-world problems and communicate actionable insights.
 
-## Research Interests
+## Research Interests 🛰️
 
 <p>
   <img src="https://img.shields.io/badge/HCI-Human--Computer%20Interaction-6C63FF?style=for-the-badge" />
@@ -60,7 +60,7 @@ An applied analytics project completed with **Force Place Analytics**, using dat
 
 I'm interested in understanding how we can design and build technology that better supports **people, communities, and collaboration**.
 
-## Beyond the Main Projects
+## Beyond the Main Projects 🚀
 
 My other repositories include smaller explorations in:
 
@@ -72,7 +72,7 @@ My other repositories include smaller explorations in:
 
 **Data Visualization** · Interactive Visualization · Plotly · Exploratory Data Analysis
 
-## Technical Background
+## Technical Background 🧑‍🚀
 
 **Languages:**
 
@@ -122,7 +122,7 @@ My other repositories include smaller explorations in:
 
 ---
 
-## Education
+## Education 🌕
 
 **Denison University**, Granville, OH, USA
 
