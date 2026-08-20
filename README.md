@@ -1,12 +1,12 @@
 # Hello there! I'm Bach Nguyen!
 
-I'm a **Computer Science & Data Analytics graduate from Denison University** interested in the intersection of **technology, data, and people**.
+I'm a **Computer Science & Data Analytics graduate from Denison University**, and I'm interested in how technology can be designed, analyzed, and evaluated to better support people and communities.
 
 I'm currently diving deeper into **Human-Computer Interaction (HCI)** and **Computer-Supported Cooperative Work (CSCW)**, with interests in human-centered AI, social computing, and technology-mediated human behavior.
 
 ## About Me
 
-I enjoy working across different areas of computing and data. One of my strengths is **flexibility** — adapting to different problems, learning the tools and methodologies they require, and bringing together perspectives from software engineering, data analytics, and research.
+I enjoy working across different areas of computing and data, from building software and analyzing complex datasets to exploring machine learning and human-centered technology. I particularly enjoy projects that require moving between technical implementation, data-driven reasoning, and understanding the people or communities affected by a system.
 
 My work spans:
 
@@ -59,6 +59,18 @@ An applied analytics project completed with **Force Place Analytics**, using dat
 </p>
 
 I'm interested in understanding how we can design and build technology that better supports **people, communities, and collaboration**.
+
+## Beyond the Main Projects
+
+My other repositories include smaller explorations in:
+
+**NLP & Text Analysis** · TF-IDF · Word Embeddings · spaCy · Named Entity Recognition
+
+**Computer Vision & ML** · Image Classification · CNNs · Image Clustering · Human-in-the-Loop ML
+
+**Privacy & Security** · K-Anonymity · L-Diversity · Differential Privacy · Homomorphic Encryption
+
+**Data Visualization** · Interactive Visualization · Plotly · Exploratory Data Analysis
 
 ## Technical Background
 
