@@ -39,7 +39,7 @@ An investigation into extracting useful structure from data collected under **RA
 
 An applied analytics project completed with **Force Place Analytics**, using data-driven methods to explore real-world problems and communicate actionable insights.
 
-## Research Interests 🛰️
+## Research Interests 🌠
 
 <p>
   <img src="https://img.shields.io/badge/HCI-Human--Computer%20Interaction-6C63FF?style=for-the-badge" />
