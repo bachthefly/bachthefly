@@ -17,7 +17,7 @@ My work spans:
 * Human-Centered Computing
 * Applied Research
 
-## Selected Projects 🧑‍🚀
+## Selected Projects 🛰️
 
 ### NSDUH Mental Health & Substance Use Treatment Access
 **Research · Statistical Modeling · Health Analytics**
