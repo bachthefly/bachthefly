@@ -116,6 +116,12 @@ My other repositories include smaller explorations in:
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
+---
+
+[![xkcd #138 — Pointers](https://imgs.xkcd.com/comics/pointers.png)](https://xkcd.com/138/)
+
+---
+
 ## Education
 
 **Denison University**, Granville, OH, USA
