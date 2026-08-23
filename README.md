@@ -19,25 +19,25 @@ My work spans:
 
 ## Selected Projects 🛰️
 
-### [NSDUH Mental Health & Substance Use Treatment Access](https://github.com/bachthefly/NSDUH_Treatment_Access_Analysis_Capstone)
-**Research · Statistical Modeling · Health Analytics**
-
-An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2023 National Survey on Drug Use and Health (NSDUH)**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
-
 ### [Licking County Food Pantry Network Location App](https://github.com/TaemnLee/FoodPantryLocationApp)
 **Software Engineering · Mobile Development · Community Technology**
 
 A mobile application developed with a community partner to improve access to local food pantry information. Built with **React Native, Supabase, PostgreSQL, and PostGIS**, with mapping, schedules, inventory, and real-time updates.
 
-### [From RAPPOR Noise to Usable Structure](https://github.com/trenotronic/RAPPOR_Privacy_Preserving_Decision_Trees)
-**Privacy · Machine Learning · Algorithms**
+### [NSDUH Mental Health & Substance Use Treatment Access](https://github.com/bachthefly/NSDUH_Treatment_Access_Analysis_Capstone)
+**Research · Statistical Modeling · Health Analytics**
 
-An investigation into extracting useful structure from data collected under **RAPPOR-based local differential privacy**. Explores the trade-offs between privacy protection and downstream data utility.
+An applied data analytics project investigating predictors of mental health and substance use treatment access using the **2023 National Survey on Drug Use and Health (NSDUH)**. Combines group LASSO, survey-weighted logistic regression, and machine learning.
 
 ### [Force Place Analytics](https://github.com/bachthefly/isaac-athletics-analytics)
 **Applied Analytics · Data Visualization · Real-World Data**
 
 An applied analytics project completed with **Force Place Analytics**, using data-driven methods to explore real-world problems and communicate actionable insights.
+
+### [From RAPPOR Noise to Usable Structure](https://github.com/trenotronic/RAPPOR_Privacy_Preserving_Decision_Trees)
+**Privacy · Machine Learning · Algorithms**
+
+An investigation into extracting useful structure from data collected under **RAPPOR-based local differential privacy**. Explores the trade-offs between privacy protection and downstream data utility.
 
 ## Research Interests 🌠
 
